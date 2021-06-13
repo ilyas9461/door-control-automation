@@ -1,0 +1,42 @@
+[PROJECT]
+Target=rfid_glcd_kapi_oto.hex
+Development_Mode=
+Processor_Text=PIC18F452
+ToolSuite=CCS
+Processor=0x452F
+CCSVersion=5.010
+Compiler=PCH
+[D:\Elo-Documents\MCU_xxx\CCS_Pic_C\18f452\Rfid_GLCD_kapi_otomasyonu\rfid_glcd_kapi_oto]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=rfid_glcd_kapi_oto.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=rfid_glcd_kapi_oto.c
+2=
+3=HDM64GS12_lys.c
+4=rfid_glcd_kapi_oto.h
+5=
+6=logo_ttteml.c
+7=rfid_kapi_oto_kesmeler.c
+8=HDM64GS12_lys.c
+9=
+10=
+11=
+12=
+[Target Data]
+OptionString=-p +FH
+FileList=rfid_glcd_kapi_oto.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[rfid_glcd_kapi_oto.c]
+Type=4
+[Units]
+Count=1
+1=rfid_glcd_kapi_oto (main)
