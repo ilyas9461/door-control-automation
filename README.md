@@ -6,7 +6,7 @@
 Herhangi bir ortak alanda (koridor vb.) bulunan  çalışma alanlarının kapılarının her kullanıcıya verilen temassız kart (RFID Tag) ile merkezi bir noktadan kontrolünün yapılarak çalışma ortamlarına giriş kontrolünün sağlanması ve gereksiz girişlerin engellenmesi. 
 Sadece tanımlanmış kullanıcıların izni ile giriş ve çıkışların yapılmasının sağlanması.
 
-[Örnek çalşma videosu için tıklayınız ...](https://youtu.be/mgzPTarc4ds)
+[Örnek çalışma videosu için tıklayınız ...](https://youtu.be/mgzPTarc4ds)
 
 
 ### **Projenin konusu?** :
