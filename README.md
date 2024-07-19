@@ -9,7 +9,7 @@ Ensuring that entries and exits are made only with the permission of defined use
 [Click for sample working video...](https://youtu.be/mgzPTarc4ds)
 
 
-### **Projenin konusu?** :
+### **The subject of the project** :
 
 - RFID (Radio Frequency İdentification).
 - MCU (PIC18F452)
